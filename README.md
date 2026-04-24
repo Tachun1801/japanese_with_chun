@@ -1,0 +1,1 @@
+Project này tạo ra để vừa học vừa làm app android
